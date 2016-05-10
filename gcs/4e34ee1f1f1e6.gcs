@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gcs version="1.0">
+  <match>
+    <team1></team1>
+    <team1tag></team1tag>
+    <team2></team2>
+    <team2tag></team2tag>
+    <pubDate>7/30/11</pubDate>
+    <matchDate>7/30/11</matchDate>
+    <generator>Goblinput</generator>
+    <overtime>No</overtime>
+    <otRounds>5</otRounds>
+    <maxRounds>15</maxRounds>
+    <eventType>Scrim</eventType>
+    <eventName></eventName>
+    <map></map>
+    <notes></notes>
+  </match>
+</gcs>

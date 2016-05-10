@@ -1,0 +1,394 @@
+/* CSS Document */
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	letter-spacing: -1px;
+	font-size: 1.3em;
+}
+
+h3 {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	text-align: center;
+	background: #ffffff url(images/bg.gif) repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px
+}
+
+fieldset {
+	color: #0275ac;
+	border: 0px;
+}
+
+legend {
+	color: #0275ac;
+}
+
+img {
+	border: 0px;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+.goblinput {
+	text-align: left;
+	width: 925px;
+	margin: 0px auto;
+}
+
+.goblinventions {
+	width: 925px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+.contentBG {
+	background-image:url(images/contentBG.jpg);
+	width: 925px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.contentInnerBG {
+	background: #FFF url(images/image_21.jpg) repeat-x;
+	width: 923px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.contentLeft {
+	float: left;
+	text-align: left;
+	width: 516px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.mainImage {
+	float: right;
+	padding: 7px;
+	width: 128px;
+	margin-top: 35px;
+}
+
+.contentRight {
+	width: 347px;
+	float: right;
+	text-align: left;
+	padding-right: 20px;
+	padding-top: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 20px;
+}
+
+.headerMain {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.roundcont {
+	width: 350px;
+	background-color: #FFF;
+	margin-top: 10px;
+}
+
+.roundcont2 {
+	width: 450px;
+	background-color: #FFF;
+	margin-left: 100px;
+}
+
+.roundcont p {
+	margin: 0 10px;
+}
+
+.roundtop { 
+	background: url(images/rtcorner.gif) no-repeat top right; 
+}
+
+img.corner {
+   width: 10px;
+   height: 10px;
+   border: none;
+   display: block;
+}
+
+p {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+.giBG {
+	background-image: url(images/gibg.gif);
+	background-repeat: no-repeat;
+	width: 872px;
+	margin: 0px auto;
+	padding-top: 30px;
+	background-color: #FFF;
+	display: inline-block;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.giLeft {
+	float: left;
+	text-align: left;
+	font-weight: bold;
+	font-size: 16px;
+	padding-left: 50px;
+	width: 600px;
+}
+
+.giRight {
+	float: right;
+	text-align: left;
+	width: 200px;
+	padding-top: 90px;
+}
+
+.giForm {
+	font-family: verdana;
+	font-size: 20px;
+	background-image: url(images/textfieldbg.jpg);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	border: 0px;
+	padding-left: 5px;
+	color: #31424a;
+}
+
+.giForm2 {
+	font-family: verdana;
+	font-size: 20px;
+	background-image: url(images/textfieldbg1.jpg);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	border: 0px;
+	padding-left: 5px;
+	color: #31424a;
+}
+
+.giForm3 {
+	font-family: verdana;
+	font-size: 20px;
+	background-image: url(images/textfieldbg2.jpg);
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	border: 0px;
+	padding-left: 5px;
+	color: #31424a;
+}
+
+.giData {
+	height: 35px;
+}
+
+.giDataHidden {
+	text-align: left;
+	height: 35px;
+	visibility: hidden;
+	display: none;
+}
+
+.giDataHidden2 {
+	text-align: left;
+	height: 35px;
+	visibility: hidden;
+	display: none;
+}
+
+.giDataLeft {
+	float: left;
+	width: 44%;
+	text-align: right; 
+	vertical-align: baseline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 6px;
+	position: relative;
+	color: #000;
+}
+
+.giDataRight {
+	float: right;
+	text-align: left;
+	width: 54%;
+	padding-left: 1%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #31424a;
+}
+
+.giDataLeft2 {
+	float: left;
+	width: 31%;
+	text-align: right; 
+	vertical-align: baseline;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 6px;
+	position: relative;
+	color: #000;
+}
+
+.giDataRight2 {
+	float: right;
+	text-align: left;
+	width: 67%;
+	padding-left: 1%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #31424a;
+}
+
+.contentAbout {
+	text-align: left;
+	width: 800;
+	margin: 0 auto;
+	padding-top: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 20px;
+}
+
+.brown {
+	font-size: 14px;
+	font-family: verdana;
+	color: #525047;
+}
+
+table, td, tr {
+	font-size: 14px;
+	font-family: verdana;
+	color: #000000;
+	margin: 0 auto;
+}
+
+#goblincastlogo {
+	padding-bottom: 25px;
+	display: inline-block;
+	margin-right: 600px;
+}
+
+.white {
+	text-align: left;
+	background: #FFF;
+	width: 663px;
+	padding-left: 10px;
+	height: 26px;
+	margin: 0 auto;
+}
+
+.grey {
+	text-align: left;
+	background: #f4f3ef;
+	width: 663px;
+	padding-left: 10px;
+	height: 26px;
+	margin: 0 auto;
+}
+
+.halftime {
+	text-align: center;
+	background: #000000;
+	width: 673px;
+	font-size: 16px;
+	margin: 0 auto;
+	margin-top: 10px;
+	color: #FFF;
+	font-weight: bold;
+}
+
+.round {
+	text-align: left;
+	background: #f2f0e3;
+	width: 663px;
+	font-size: 16px;
+	padding-left: 10px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.round table{
+	width: 663px;
+	font-size: 16px;
+	margin: 0 auto;
+}
+
+.round tr{
+	width: 663px;
+	font-size: 16px;
+	margin: 0 auto;
+}
+
+.round td{
+	width: 663px;
+	font-size: 16px;
+	margin: 0 auto;
+}
+
+.image {
+	margin-top: 1px;
+}
+
+.t {
+	text-align: left;
+	background: #981b2f;
+	width: 663px;
+	padding-left: 10px;
+	height: 26px;
+	margin: 0 auto;
+	color: #FFF;
+}
+
+.ct {
+	text-align: left;
+	background: #077698;
+	width: 663px;
+	padding-left: 10px;
+	height: 26px;
+	margin: 0 auto;
+	color: #FFF;
+}
